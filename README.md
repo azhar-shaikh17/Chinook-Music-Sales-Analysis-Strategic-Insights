@@ -1,1 +1,1 @@
-# Chinook-Music-Sales-Analysis-Strategic-Insights
+# Chinook-Music-Sales-Analysis & Strategic-Insights
